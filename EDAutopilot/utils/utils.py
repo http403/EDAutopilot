@@ -12,10 +12,10 @@ import time
 import numpy as np
 import traceback
 from ctypes import windll
-from utils.journal import *
-from utils.directinputs import *
-from utils.keybinds import *
-from utils.status import *
+from EDAutopilot.utils.journal import *
+from EDAutopilot.utils.directinputs import *
+from EDAutopilot.utils.keybinds import *
+from EDAutopilot.utils.status import *
 
 ## Constants
 ALIGN_TRIMM_DELAY = 0.030

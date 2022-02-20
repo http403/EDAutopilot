@@ -1,4 +1,4 @@
-from utils.utils import *
+from EDAutopilot.utils.utils import *
 class gameSession:
     isDebug = False
     targetX = targetY = navCenter = 0

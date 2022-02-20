@@ -1,4 +1,4 @@
-from game import *
+from EDAutopilot.game import *
 import transitions
 pyautogui.FAILSAFE=False
 map_bookmark = loadFromFile("templates/map_bookmark.png")
