@@ -1,7 +1,7 @@
-.vscode/__pycache__/*
-.vscode/utils/__pycache__/*
-.vscode/*.json
+# Compiled Python and cache
+__pycache__/
+*.py[cod]
+
+# Unknown
 /*.png
 *.deprecated
-.vscode/test.py
-test/*
